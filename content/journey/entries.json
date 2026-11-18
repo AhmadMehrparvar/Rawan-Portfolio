@@ -1,1 +1,217 @@
-[]
+[
+  {
+    "id": "ongoing-frappe-erpnext-localization",
+    "visible": true,
+    "type": "milestone",
+    "current": true,
+    "locales": {
+      "en": {
+        "title": "Ongoing Frappe & ERPNext localization",
+        "description": "Working toward ERP localization for Iranian organizations, with the project explicitly described as under development."
+      },
+      "fa": {
+        "title": "بومی‌سازی در حال توسعه Frappe و ERPNext",
+        "description": "فعالیت برای بومی‌سازی ERP متناسب با سازمان‌های ایرانی؛ پروژه هنوز در حال توسعه است."
+      }
+    },
+    "organization": "Independent work",
+    "technologies": [
+      "Frappe Framework",
+      "ERPNext"
+    ],
+    "projectIds": [
+      "frappe-erpnext-persian-localization"
+    ],
+    "articleIds": [],
+    "links": [],
+    "priority": 50
+  },
+  {
+    "id": "systems-methods-farzaneh-arman",
+    "visible": true,
+    "type": "employment",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "Systems & Methods practice",
+        "description": "A six-month role connecting process design to CRM workflows, Access tools, performance evaluation, and operational reporting."
+      },
+      "fa": {
+        "title": "تجربه سیستم‌ها و روش‌ها",
+        "description": "شش ماه فعالیت در پیوند طراحی فرایند با گردش‌کارهای CRM، ابزارهای Access، ارزیابی عملکرد و گزارش‌دهی عملیاتی."
+      }
+    },
+    "organization": "Farzaneh Arman",
+    "technologies": [
+      "Microsoft Dynamics 365",
+      "Microsoft Access",
+      "Power BI",
+      "BSC"
+    ],
+    "projectIds": [
+      "engineering-document-control-access",
+      "dynamics-365-crm-workflows",
+      "payroll-calculation-access",
+      "balanced-scorecard-evaluation"
+    ],
+    "articleIds": [],
+    "links": [],
+    "priority": 40
+  },
+  {
+    "id": "independent-wordpress-practice",
+    "visible": true,
+    "type": "milestone",
+    "current": true,
+    "locales": {
+      "en": {
+        "title": "WordPress development and localization",
+        "description": "Seven years of independent website work, including Persian/RTL localization, Jalali extensions, and performance improvements."
+      },
+      "fa": {
+        "title": "توسعه وردپرس و بومی‌سازی",
+        "description": "هفت سال کار مستقل در سایت‌ها، فارسی‌سازی و راست‌چین‌سازی، افزونه‌های شمسی و بهینه‌سازی عملکرد."
+      }
+    },
+    "organization": "Independent Projects",
+    "technologies": [
+      "WordPress",
+      "LifterLMS",
+      "BuddyBoss"
+    ],
+    "projectIds": [
+      "wordpress-sites-localization"
+    ],
+    "articleIds": [],
+    "links": [],
+    "priority": 30
+  },
+  {
+    "id": "industrial-engineering-yazd-university",
+    "visible": true,
+    "type": "education",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "Industrial Engineering education",
+        "description": "Earned a Bachelor’s degree in Industrial Engineering at Yazd University, establishing the foundation for systems thinking and process analysis."
+      },
+      "fa": {
+        "title": "تحصیل مهندسی صنایع",
+        "description": "دریافت مدرک کارشناسی مهندسی صنایع از دانشگاه یزد؛ پایه‌ای برای تفکر سیستمی و تحلیل فرایند."
+      }
+    },
+    "organization": "Yazd University",
+    "technologies": [
+      "Industrial Engineering",
+      "Process Analysis"
+    ],
+    "projectIds": [],
+    "articleIds": [],
+    "links": [],
+    "priority": 20
+  },
+  {
+    "id": "solar-plant-project-control",
+    "visible": true,
+    "type": "milestone",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "9 MW solar plant project control",
+        "description": "Project planning and control work for a 9 MW solar power plant recorded as under construction in the résumé."
+      },
+      "fa": {
+        "title": "کنترل پروژه نیروگاه خورشیدی ۹ مگاواتی",
+        "description": "فعالیت در برنامه‌ریزی و کنترل پروژه نیروگاه خورشیدی ۹ مگاواتی که در رزومه به‌عنوان پروژه در حال ساخت معرفی شده است."
+      }
+    },
+    "organization": "Hamerz Plasma",
+    "technologies": [
+      "Project Planning",
+      "Project Control"
+    ],
+    "projectIds": [],
+    "articleIds": [],
+    "links": [],
+    "priority": 25
+  },
+  {
+    "id": "industrial-engineering-association-leadership",
+    "visible": true,
+    "type": "milestone",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "Student leadership and mentorship",
+        "description": "Led association activities and training planning at Yazd University; coordinated mentorship through USSAIE and contributed to two student conferences."
+      },
+      "fa": {
+        "title": "فعالیت دانشجویی، راهبری و منتورینگ",
+        "description": "راهبری فعالیت‌های انجمن و برنامه‌های آموزشی در دانشگاه یزد، هماهنگی منتورینگ در اتحادیه انجمن‌های مهندسی صنایع و همکاری در دو کنفرانس دانشجویی."
+      }
+    },
+    "organization": "Yazd University / USSAIE",
+    "technologies": [
+      "Team Coordination",
+      "Training Planning",
+      "Mentorship"
+    ],
+    "projectIds": [],
+    "articleIds": [],
+    "links": [],
+    "priority": 15
+  },
+  {
+    "id": "professional-development-courses",
+    "visible": true,
+    "type": "milestone",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "Continuing professional learning",
+        "description": "Coursework in BPMN 2.0 at Yazd University, Git training with Jadi via Maktabkhooneh, and n8n workflow automation coursework with Ed Donner. These are training records, not claimed certificates."
+      },
+      "fa": {
+        "title": "یادگیری و آموزش‌های تخصصی",
+        "description": "آموزش BPMN 2.0 در دانشگاه یزد، دوره Git با جادی در مکتب‌خونه و آموزش اتوماسیون n8n با Ed Donner؛ این موارد دوره آموزشی‌اند، نه گواهی‌نامه تأییدشده."
+      }
+    },
+    "organization": "Independent coursework",
+    "technologies": [
+      "BPMN 2.0",
+      "Git",
+      "n8n"
+    ],
+    "projectIds": [],
+    "articleIds": [],
+    "links": [],
+    "priority": 5
+  },
+  {
+    "id": "industrial-engineering-conference-2024",
+    "visible": true,
+    "type": "milestone",
+    "current": false,
+    "locales": {
+      "en": {
+        "title": "Industrial Engineering conference presentation",
+        "description": "Led the writing of research on competencies relevant to Industrial Engineering career fields, presented at Ferdowsi University of Mashhad in September 2024."
+      },
+      "fa": {
+        "title": "ارائه پژوهش در کنفرانس مهندسی صنایع",
+        "description": "نویسنده اصلی پژوهشی درباره شایستگی‌های موردنیاز حوزه‌های کاری مهندسی صنایع، ارائه‌شده در دانشگاه فردوسی مشهد در شهریور ۱۴۰۳."
+      }
+    },
+    "organization": "10th International Conference on Industrial and Systems Engineering",
+    "technologies": [
+      "Research",
+      "Industrial Engineering"
+    ],
+    "projectIds": [],
+    "articleIds": [],
+    "links": [],
+    "priority": 10,
+    "startDate": "2024-09-18"
+  }
+]

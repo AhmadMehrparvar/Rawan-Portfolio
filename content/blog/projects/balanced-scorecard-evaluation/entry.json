@@ -1,0 +1,38 @@
+{
+  "id": "balanced-scorecard-evaluation",
+  "kind": "overview",
+  "translationId": "project-balanced-scorecard-evaluation",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "balanced-scorecard-evaluation",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": true,
+  "projectCategory": "software-open-source",
+  "visible": true,
+  "publication": "public-sanitized",
+  "maturity": "organizational",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Performance evaluation system design",
+    "fa": "طراحی نظام ارزیابی عملکرد"
+  },
+  "technologies": [
+    "Balanced Scorecard",
+    "Performance Management",
+    "Industrial Engineering"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "reporting-performance-management",
+    "business-process-design"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 80,
+  "favorite": false,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06"
+}

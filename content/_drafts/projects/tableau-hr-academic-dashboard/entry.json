@@ -1,0 +1,33 @@
+{
+  "id": "tableau-hr-academic-dashboard",
+  "kind": "overview",
+  "translationId": "project-tableau-hr-academic-dashboard",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "tableau-hr-academic-dashboard",
+  "status": "draft",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": false,
+  "projectCategory": "software-open-source",
+  "visible": false,
+  "publication": "requires-review",
+  "maturity": "academic-mvp",
+  "secondaryCategories": [],
+  "role": {
+    "en": "University course project",
+    "fa": "پروژه درسی دانشگاهی"
+  },
+  "technologies": [
+    "Tableau"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "reporting-performance-management"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 10,
+  "favorite": false
+}

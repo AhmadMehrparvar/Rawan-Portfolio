@@ -4,11 +4,11 @@
   "translationId": "blog-landing",
   "slug": "blog",
   "category": "blog",
-  "status": "draft",
-  "pubDate": "2026-10-29",
+  "status": "published",
+  "pubDate": "2026-11-06",
   "tags": [
-    "projects",
-    "engineering"
+    "business-systems",
+    "automation"
   ],
   "featured": false,
   "toc": false

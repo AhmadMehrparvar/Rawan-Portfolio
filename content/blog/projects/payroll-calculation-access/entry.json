@@ -1,0 +1,38 @@
+{
+  "id": "payroll-calculation-access",
+  "kind": "overview",
+  "translationId": "project-payroll-calculation-access",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "payroll-calculation-access",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": true,
+  "projectCategory": "software-open-source",
+  "visible": true,
+  "publication": "public-sanitized",
+  "maturity": "organizational",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Process documentation and Access implementation",
+    "fa": "مستندسازی فرایند و پیاده‌سازی با Access"
+  },
+  "technologies": [
+    "Microsoft Access",
+    "Business Rules",
+    "Process Documentation"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "crm-workflow-automation",
+    "business-process-design"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 90,
+  "favorite": false,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06"
+}

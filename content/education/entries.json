@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "industrial-engineering-bachelors-yazd",
+    "visible": true,
+    "locales": {
+      "en": {
+        "title": "Bachelor's Degree in Industrial Engineering",
+        "summary": "Industrial Engineering education at Yazd University.",
+        "description": "Academic background supporting process analysis, operational systems, performance measurement, and engineering coordination."
+      },
+      "fa": {
+        "title": "کارشناسی مهندسی صنایع",
+        "summary": "تحصیل در رشته مهندسی صنایع در دانشگاه یزد.",
+        "description": "پیش‌زمینه دانشگاهی مرتبط با تحلیل فرایند، سیستم‌های عملیاتی، سنجش عملکرد و هماهنگی مهندسی."
+      }
+    },
+    "organization": "Yazd University",
+    "technologies": [
+      "Industrial Engineering",
+      "Business Process Management"
+    ],
+    "priority": 20
+  }
+]

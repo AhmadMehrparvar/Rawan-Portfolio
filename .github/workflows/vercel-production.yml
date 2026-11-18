@@ -6,7 +6,7 @@ on:
       ref:
         description: 'Branch to deploy to production (main or content/*)'
         required: true
-        default: content/hamed-sheikhan
+        default: content/ahmad-mehrparvar
         type: string
 
 permissions:

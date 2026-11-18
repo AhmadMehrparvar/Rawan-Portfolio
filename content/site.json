@@ -3,16 +3,24 @@
   "defaultLocale": "fa",
   "locales": {
     "en": {
-      "title": "Rawan Portfolio",
-      "description": "A bilingual, content-driven portfolio by Rawan.",
+      "title": "Ahmad Mehrparvar | Business Systems & Automation",
+      "description": "Portfolio of Ahmad Mehrparvar: business systems analysis, process automation, Microsoft Dynamics 365 workflows, Access tools, WordPress development, and ERP localization.",
       "homeLabel": "Home",
-      "footerCta": { "title": "Keep building", "description": "Add your articles and project notes to create a useful technical portfolio.", "button": "Browse the blog" }
+      "footerCta": {
+        "title": "Notes from the work",
+        "description": "Explore projects, technical decisions, and practical lessons from business systems, automation, and digital delivery.",
+        "button": "Explore the blog"
+      }
     },
     "fa": {
-      "title": "پورتفولیوی روان",
-      "description": "پورتفولیویی دوزبانه و محتوامحور برای روان.",
+      "title": "احمد مهرپرور | سیستم‌های کسب‌وکار و اتوماسیون",
+      "description": "پورتفولیوی احمد مهرپرور در تحلیل سیستم‌های کسب‌وکار، اتوماسیون فرایندها، گردش‌کارهای Dynamics 365، ابزارهای Access، توسعه وردپرس و بومی‌سازی ERP.",
       "homeLabel": "خانه",
-      "footerCta": { "title": "به ساختن ادامه دهید", "description": "مقاله‌ها و یادداشت‌های پروژهٔ خود را اضافه کنید تا کارنامه‌ای فنی بسازید.", "button": "مشاهدهٔ وبلاگ" }
+      "footerCta": {
+        "title": "یادداشت‌هایی از تجربه اجرا",
+        "description": "پروژه‌ها، تصمیم‌های فنی و آموخته‌های کاربردی در حوزه سیستم‌های کسب‌وکار، اتوماسیون و راهکارهای دیجیتال را مرور کنید.",
+        "button": "مشاهده وبلاگ"
+      }
     }
   }
 }

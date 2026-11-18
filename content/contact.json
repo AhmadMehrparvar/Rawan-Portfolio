@@ -2,9 +2,20 @@
   "email": "",
   "phone": "",
   "location": "",
-  "socials": [],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ahmad-mehrparvar-5062b514a/"
+    }
+  ],
   "locales": {
-    "en": { "title": "Let’s connect", "intro": "Add your preferred contact methods in content/contact.json." },
-    "fa": { "title": "در ارتباط باشیم", "intro": "راه‌های ارتباطی خود را در content/contact.json اضافه کنید." }
+    "en": {
+      "title": "Let's work together",
+      "intro": "Have a business process to improve, a system to customize, or a website to build? I'm interested in freelance, project-based, and consulting collaborations involving business systems, automation, WordPress, and ERP localization. Connect with me on LinkedIn to discuss your needs."
+    },
+    "fa": {
+      "title": "بیایید همکاری کنیم",
+      "intro": "فرایندی نیاز به بهبود دارد، سامانه‌ای باید سفارشی‌سازی شود یا به توسعه وب‌سایت نیاز دارید؟ برای همکاری پروژه‌ای، فریلنسری و مشاوره در حوزه سیستم‌های کسب‌وکار، اتوماسیون، وردپرس و بومی‌سازی ERP علاقه‌مندم. برای گفت‌وگو درباره نیازتان از طریق لینکدین در ارتباط باشید."
+    }
   }
 }

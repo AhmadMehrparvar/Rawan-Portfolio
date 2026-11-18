@@ -1,0 +1,40 @@
+{
+  "id": "engineering-document-control-access",
+  "kind": "overview",
+  "translationId": "project-engineering-document-control-access",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "engineering-document-control-access",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "image": "media/projects/engineering-document-control-access/dcc.png",
+  "featured": false,
+  "toc": true,
+  "projectCategory": "software-open-source",
+  "visible": true,
+  "publication": "public-sanitized",
+  "maturity": "organizational",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Process design and collaborative system implementation",
+    "fa": "طراحی فرایند و مشارکت در پیاده‌سازی سامانه"
+  },
+  "technologies": [
+    "Microsoft Access",
+    "VBA",
+    "Relational Database Design"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "crm-workflow-automation",
+    "business-process-design"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 120,
+  "favorite": true,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-18",
+  "favoriteAt": "2026-11-06"
+}

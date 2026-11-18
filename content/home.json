@@ -2,53 +2,91 @@
   "focus": {
     "en": [
       {
-        "title": "Your main focus",
-        "description": "Describe a field, topic, or kind of work that matters to you."
+        "title": "Business process analysis & automation",
+        "description": "I translate day-to-day business requirements into structured processes, CRM workflows, and tools that people can actually use."
       },
       {
-        "title": "Your approach",
-        "description": "Explain how you approach your work and what guides your decisions."
+        "title": "Operational tools & performance systems",
+        "description": "I work on document control, payroll calculations, Balanced Scorecard evaluations, and reporting that makes organizational work easier to follow."
       },
       {
-        "title": "Your next direction",
-        "description": "Share what you would like to learn, explore, or work toward next."
+        "title": "Web development & Persian localization",
+        "description": "I develop WordPress sites and learning-platform extensions, and I am working on localizing Frappe and ERPNext for Iranian businesses."
       }
     ],
     "fa": [
       {
-        "title": "حوزهٔ تمرکز شما",
-        "description": "حوزه، موضوع یا نوع کاری را معرفی کنید که برای شما اهمیت دارد."
+        "title": "تحلیل و اتوماسیون فرایندهای کسب‌وکار",
+        "description": "نیازهای عملیاتی کسب‌وکار را به فرایندهای ساختاریافته، گردش‌کارهای CRM و ابزارهایی تبدیل می‌کنم که تیم‌ها بتوانند در عمل از آن‌ها استفاده کنند."
       },
       {
-        "title": "روش کار شما",
-        "description": "توضیح دهید چگونه به کار خود می‌پردازید و چه چیزهایی راهنمای تصمیم‌های شما هستند."
+        "title": "ابزارهای سازمانی و مدیریت عملکرد",
+        "description": "روی کنترل مدارک، محاسبات حقوق و دستمزد، ارزیابی عملکرد با کارت امتیازی متوازن و گزارش‌دهی قابل‌پیگیری کار می‌کنم."
       },
       {
-        "title": "مسیر پیش روی شما",
-        "description": "بنویسید دوست دارید چه چیزی یاد بگیرید، چه موضوعی را دنبال کنید یا به سوی چه هدفی پیش بروید."
+        "title": "توسعه وب و بومی‌سازی فارسی",
+        "description": "وب‌سایت‌ها و افزونه‌های پلتفرم‌های آموزشی وردپرسی را توسعه می‌دهم و در حال بومی‌سازی Frappe و ERPNext برای کسب‌وکارهای ایرانی هستم."
       }
     ]
   },
   "locales": {
     "en": {
-      "greeting": "Your professional portfolio",
-      "displayName": "Portfolio Owner",
-      "title": "Add your professional title",
-      "intro": "Add a concise introduction in content/home.json.",
-      "summary": "Add your focus areas here.",
-      "description": "",
+      "greeting": "Hello, I'm",
+      "displayName": "Ahmad Mehrparvar",
+      "title": "Business Systems Analyst & Automation Developer",
+      "intro": "I turn complex business processes into practical digital tools and workflows.",
+      "summary": "With an Industrial Engineering background, I work on CRM workflows, Access-based business tools, performance management, WordPress development, and Persian software localization. I am especially interested in project-based and consulting collaborations.",
+      "description": "My work connects operational needs with implementation—from process documentation and Microsoft Dynamics 365 automation to WordPress platforms and ongoing Frappe/ERPNext localization. I value clear requirements, practical scope, and tools that teams can maintain.",
       "ctaExperience": "Explore experience",
       "ctaProjects": "View projects"
     },
     "fa": {
-      "greeting": "کارنامهٔ حرفه‌ای شما",
-      "displayName": "صاحب کارنامه",
-      "title": "عنوان حرفه‌ای خود را اضافه کنید",
-      "intro": "معرفی کوتاه خود را در content/home.json اضافه کنید.",
-      "summary": "حوزه‌های تمرکز خود را اینجا اضافه کنید.",
-      "description": "",
-      "ctaExperience": "مشاهدهٔ تجربه",
-      "ctaProjects": "مشاهدهٔ پروژه‌ها"
+      "greeting": "سلام، من",
+      "displayName": "احمد مهرپرور",
+      "title": "تحلیلگر سیستم‌های کسب‌وکار و توسعه‌دهنده راهکارهای اتوماسیون",
+      "intro": "فرایندهای پیچیده سازمانی را به ابزارها و گردش‌کارهای دیجیتال کاربردی تبدیل می‌کنم.",
+      "summary": "با پیش‌زمینه مهندسی صنایع، در حوزه گردش‌کارهای CRM، ابزارهای سازمانی مبتنی بر Access، مدیریت عملکرد، توسعه وردپرس و بومی‌سازی فارسی نرم‌افزار فعالیت می‌کنم. به‌ویژه به همکاری‌های پروژه‌ای و مشاوره‌ای علاقه‌مندم.",
+      "description": "در کارم نیازهای عملیاتی را به راهکارهای قابل اجرا پیوند می‌دهم؛ از مستندسازی فرایندها و اتوماسیون Microsoft Dynamics 365 تا پلتفرم‌های وردپرسی و بومی‌سازی در حال توسعه Frappe/ERPNext. برایم شفافیت نیازمندی، محدوده واقعی و نگهداری‌پذیری مهم است.",
+      "ctaExperience": "سوابق حرفه‌ای",
+      "ctaProjects": "مشاهده پروژه‌ها"
+    }
+  },
+  "about": {
+    "en": {
+      "title": "About me",
+      "description": "I studied Industrial Engineering at Yazd University and became interested in how organizations can run their work more clearly and consistently. That interest led me to process analysis, performance evaluation, CRM workflows, and small but useful business tools.\n\nAt Farzaneh Arman, I worked on a Balanced Scorecard evaluation system, forms and workflows in Microsoft Dynamics 365, payroll calculations in Microsoft Access, engineering document control processes, and improvements to a Power BI dashboard. These were different problems, but they shared a practical goal: turning rules and information into repeatable work.\n\nAlongside business systems, I have seven years of WordPress experience across educational, corporate, and e-commerce websites. I have worked on Persian and RTL adaptations, Jalali calendar support for LifterLMS and BuddyBoss, and performance improvements. I am currently exploring the same localization challenges in Frappe and ERPNext. I prefer engagements where analysis, implementation, and clear handover belong together.",
+      "cards": [
+        {
+          "title": "Understand the process",
+          "description": "Map the real workflow and constraints before selecting an automation tool."
+        },
+        {
+          "title": "Build usable systems",
+          "description": "Turn business rules into maintainable forms, calculations, and reporting."
+        },
+        {
+          "title": "Adapt for local teams",
+          "description": "Make web and enterprise tools easier to use in Persian and RTL contexts."
+        }
+      ]
+    },
+    "fa": {
+      "title": "درباره من",
+      "description": "در دانشگاه یزد مهندسی صنایع خواندم و به این موضوع علاقه‌مند شدم که سازمان‌ها چگونه می‌توانند کارهایشان را شفاف‌تر و منظم‌تر پیش ببرند. همین علاقه مرا به تحلیل فرایند، ارزیابی عملکرد، گردش‌کارهای CRM و ساخت ابزارهای کوچک اما کاربردی رساند.\n\nدر شرکت فرزانه آرمان روی سیستم ارزیابی عملکرد مبتنی بر کارت امتیازی متوازن، فرم‌ها و گردش‌کارهای Microsoft Dynamics 365، محاسبات حقوق و دستمزد با Access، فرایندهای کنترل مدارک مهندسی و بهبود داشبورد Power BI کار کردم. این فعالیت‌ها مسائل متفاوتی داشتند، اما هدف مشترکشان تبدیل قواعد و اطلاعات به کار قابل‌پیگیری و تکرارپذیر بود.\n\nدر کنار سیستم‌های سازمانی، هفت سال تجربه وردپرس در وب‌سایت‌های آموزشی، شرکتی و فروشگاهی دارم. فارسی‌سازی و راست‌چین‌سازی، توسعه پشتیبانی تقویم شمسی برای LifterLMS و BuddyBoss و بهینه‌سازی عملکرد از تجربه‌هایم است. اکنون چالش‌های مشابه بومی‌سازی را در Frappe و ERPNext دنبال می‌کنم. همکاری‌هایی را ترجیح می‌دهم که تحلیل، اجرا و تحویل روشن را کنار هم قرار دهند.",
+      "cards": [
+        {
+          "title": "درک فرایند واقعی",
+          "description": "پیش از انتخاب ابزار، گردش‌کار و محدودیت‌های واقعی را بررسی می‌کنم."
+        },
+        {
+          "title": "ساخت ابزار قابل استفاده",
+          "description": "قواعد کسب‌وکار را به فرم، محاسبه و گزارش‌دهی قابل نگهداری تبدیل می‌کنم."
+        },
+        {
+          "title": "سازگاری با نیاز محلی",
+          "description": "استفاده از ابزارهای وب و سازمانی را برای محیط فارسی و راست‌به‌چپ ساده‌تر می‌کنم."
+        }
+      ]
     }
   }
 }

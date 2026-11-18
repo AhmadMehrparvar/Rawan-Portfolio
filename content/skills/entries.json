@@ -1,1 +1,144 @@
-[]
+[
+  {
+    "id": "business-process-design",
+    "visible": true,
+    "category": "design",
+    "locales": {
+      "en": {
+        "title": "Business Process & Systems Design",
+        "description": "Analysis of operating workflows, documented procedures, and performance evaluation systems.",
+        "summary": "BPMN 2.0, process design, procedures, and Balanced Scorecard."
+      },
+      "fa": {
+        "title": "تحلیل فرایند و طراحی سیستم‌های سازمانی",
+        "description": "تحلیل گردش‌کارهای عملیاتی، تدوین رویه‌ها و طراحی نظام‌های ارزیابی عملکرد.",
+        "summary": "BPMN 2.0، طراحی فرایند، دستورالعمل‌ها و کارت امتیازی متوازن."
+      }
+    },
+    "technologies": [
+      "BPMN 2.0",
+      "Business Process Analysis",
+      "SOP",
+      "Balanced Scorecard"
+    ],
+    "priority": 60
+  },
+  {
+    "id": "crm-workflow-automation",
+    "visible": true,
+    "category": "scripting",
+    "locales": {
+      "en": {
+        "title": "CRM & Workflow Automation",
+        "description": "Forms, business workflows, and calculation processes implemented in Microsoft Dynamics 365 and Access.",
+        "summary": "Microsoft Dynamics 365, Access, VBA, process automation."
+      },
+      "fa": {
+        "title": "اتوماسیون CRM و گردش‌کارها",
+        "description": "طراحی فرم، گردش‌کار سازمانی و فرایندهای محاسباتی در Microsoft Dynamics 365 و Access.",
+        "summary": "Microsoft Dynamics 365، Access، VBA و اتوماسیون فرایند."
+      }
+    },
+    "technologies": [
+      "Microsoft Dynamics 365",
+      "Microsoft Access",
+      "VBA"
+    ],
+    "priority": 50
+  },
+  {
+    "id": "wordpress-web-development",
+    "visible": true,
+    "category": "design",
+    "locales": {
+      "en": {
+        "title": "WordPress & Web Localization",
+        "description": "Educational, corporate, and e-commerce sites with localization, LMS extensions, and performance tuning.",
+        "summary": "WordPress, LifterLMS, BuddyBoss, Persian/RTL, Jalali."
+      },
+      "fa": {
+        "title": "توسعه وردپرس و بومی‌سازی وب",
+        "description": "سایت‌های آموزشی، شرکتی و فروشگاهی همراه با بومی‌سازی، افزونه‌های LMS و بهینه‌سازی عملکرد.",
+        "summary": "WordPress، LifterLMS، BuddyBoss، فارسی/RTL و تقویم شمسی."
+      }
+    },
+    "technologies": [
+      "WordPress",
+      "LifterLMS",
+      "BuddyBoss",
+      "RTL",
+      "Jalali Calendar"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "reporting-performance-management",
+    "visible": true,
+    "category": "design",
+    "locales": {
+      "en": {
+        "title": "Reporting & Performance Management",
+        "description": "Balanced Scorecard evaluation, Power BI dashboard improvement, and an academic Tableau HR dashboard.",
+        "summary": "BSC, Power BI, Tableau (academic project)."
+      },
+      "fa": {
+        "title": "گزارش‌دهی و مدیریت عملکرد",
+        "description": "ارزیابی عملکرد با BSC، بهبود داشبورد Power BI و ساخت داشبورد دانشگاهی منابع انسانی در Tableau.",
+        "summary": "BSC، Power BI و Tableau (پروژه دانشگاهی)."
+      }
+    },
+    "technologies": [
+      "Power BI",
+      "Tableau",
+      "Balanced Scorecard"
+    ],
+    "priority": 30
+  },
+  {
+    "id": "erpnext-localization",
+    "visible": true,
+    "category": "scripting",
+    "locales": {
+      "en": {
+        "title": "Frappe & ERPNext Localization",
+        "description": "Ongoing work to adapt Frappe and ERPNext for Iranian business needs; not presented as a released product.",
+        "summary": "Frappe Framework, ERPNext, Persian localization (ongoing)."
+      },
+      "fa": {
+        "title": "بومی‌سازی Frappe و ERPNext",
+        "description": "فعالیت در حال توسعه برای سازگاری Frappe و ERPNext با نیازهای کسب‌وکارهای ایرانی؛ نه یک محصول عرضه‌شده.",
+        "summary": "Frappe Framework، ERPNext و بومی‌سازی فارسی (در حال توسعه)."
+      }
+    },
+    "technologies": [
+      "Frappe Framework",
+      "ERPNext",
+      "RTL",
+      "Persian Localization"
+    ],
+    "priority": 20
+  },
+  {
+    "id": "project-planning-control",
+    "visible": true,
+    "category": "design",
+    "locales": {
+      "en": {
+        "title": "Engineering Planning & Control",
+        "description": "Project planning and control on a 9 MW solar power plant under construction and engineering document processes.",
+        "summary": "Project control, engineering documents, status and revision tracking."
+      },
+      "fa": {
+        "title": "برنامه‌ریزی و کنترل پروژه‌های مهندسی",
+        "description": "برنامه‌ریزی و کنترل پروژه نیروگاه خورشیدی ۹ مگاواتی در حال ساخت و فرایندهای کنترل مدارک مهندسی.",
+        "summary": "کنترل پروژه، مدارک مهندسی و پیگیری وضعیت و ویرایش‌ها."
+      }
+    },
+    "technologies": [
+      "Project Planning",
+      "Project Control",
+      "Engineering Documentation"
+    ],
+    "priority": 10
+  }
+]

@@ -1,5 +1,10 @@
 {
-  "visible": false,
-  "name": "",
-  "image": "/images/profile/placeholder.svg"
+  "visible": true,
+  "name": "Ahmad Mehrparvar",
+  "image": "media/profile/placeholder.svg",
+  "resumeImage": "media/profile/placeholder.svg",
+  "imageAlt": {
+    "en": "Neutral illustration placeholder for Ahmad Mehrparvar; not an actual portrait",
+    "fa": "تصویر گرافیکی جایگزین برای نمایه احمد مهرپرور؛ عکس واقعی نیست"
+  }
 }

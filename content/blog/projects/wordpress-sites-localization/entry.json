@@ -1,0 +1,40 @@
+{
+  "id": "wordpress-sites-localization",
+  "kind": "overview",
+  "translationId": "project-wordpress-sites-localization",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "wordpress-sites-localization",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": true,
+  "projectCategory": "design-creative",
+  "visible": true,
+  "publication": "public-ready",
+  "maturity": "organizational",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Independent WordPress development and localization",
+    "fa": "توسعه و بومی‌سازی مستقل وردپرس"
+  },
+  "technologies": [
+    "WordPress",
+    "LifterLMS",
+    "BuddyBoss",
+    "RTL",
+    "Jalali Calendar"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "wordpress-web-development"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 100,
+  "favorite": true,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "favoriteAt": "2026-11-06"
+}

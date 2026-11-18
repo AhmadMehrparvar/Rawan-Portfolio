@@ -1,0 +1,39 @@
+{
+  "id": "dynamics-365-crm-workflows",
+  "kind": "overview",
+  "translationId": "project-dynamics-365-crm-workflows",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "dynamics-365-crm-workflows",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": true,
+  "projectCategory": "software-open-source",
+  "visible": true,
+  "publication": "public-sanitized",
+  "maturity": "organizational",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Business process and workflow design",
+    "fa": "طراحی فرایند کسب‌وکار و گردش‌کار"
+  },
+  "technologies": [
+    "Microsoft Dynamics 365",
+    "CRM",
+    "Workflow Automation"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "crm-workflow-automation",
+    "business-process-design"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 110,
+  "favorite": true,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "favoriteAt": "2026-11-06"
+}

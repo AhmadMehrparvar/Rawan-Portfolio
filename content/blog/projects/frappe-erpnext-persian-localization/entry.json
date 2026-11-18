@@ -1,0 +1,38 @@
+{
+  "id": "frappe-erpnext-persian-localization",
+  "kind": "overview",
+  "translationId": "project-frappe-erpnext-persian-localization",
+  "slug": "overview",
+  "category": "projects",
+  "subcategory": "frappe-erpnext-persian-localization",
+  "status": "published",
+  "pubDate": "2026-11-06",
+  "tags": [],
+  "featured": false,
+  "toc": true,
+  "projectCategory": "software-open-source",
+  "visible": true,
+  "publication": "public-ready",
+  "maturity": "under-development",
+  "secondaryCategories": [],
+  "role": {
+    "en": "Ongoing localization work",
+    "fa": "بومی‌سازی در حال توسعه"
+  },
+  "technologies": [
+    "Frappe Framework",
+    "ERPNext",
+    "Persian Localization"
+  ],
+  "journeyIds": [],
+  "relatedSkillIds": [
+    "erpnext-localization",
+    "business-process-design"
+  ],
+  "relatedProjectIds": [],
+  "articleIds": [],
+  "priority": 70,
+  "favorite": false,
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06"
+}

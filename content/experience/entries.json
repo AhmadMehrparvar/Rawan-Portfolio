@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "id": "farzaneh-arman-systems",
+    "visible": true,
+    "organization": "Farzaneh Arman",
+    "technologies": [
+      "Microsoft Dynamics 365",
+      "Microsoft Access",
+      "VBA",
+      "Power BI",
+      "Balanced Scorecard"
+    ],
+    "priority": 30,
+    "locales": {
+      "en": {
+        "title": "Systems & Methods Specialist",
+        "summary": "Business process design, CRM workflows, performance evaluation, document control, and internal tools.",
+        "description": "Six-month engagement focused on organizational process improvement and practical information systems.",
+        "bullets": [
+          "Created a Balanced Scorecard-based performance evaluation system.",
+          "Designed forms, processes, and automated workflows in Microsoft Dynamics 365 CRM.",
+          "Documented and implemented payroll calculation procedures using Microsoft Access.",
+          "Designed engineering document control processes and contributed to implementation of an Access-based system.",
+          "Updated and improved a corporate Power BI dashboard."
+        ]
+      },
+      "fa": {
+        "title": "کارشناس سیستم‌ها و روش‌ها",
+        "summary": "طراحی فرایندهای سازمانی، گردش‌کارهای CRM، ارزیابی عملکرد، کنترل مدارک و ابزارهای داخلی.",
+        "description": "شش ماه فعالیت با تمرکز بر بهبود فرایندهای سازمانی و سامانه‌های اطلاعاتی کاربردی.",
+        "bullets": [
+          "ایجاد سیستم ارزیابی عملکرد مبتنی بر کارت امتیازی متوازن (BSC).",
+          "طراحی فرم‌ها، فرایندها و گردش‌کارهای خودکار در Microsoft Dynamics 365 CRM.",
+          "تدوین و پیاده‌سازی رویه محاسبات حقوق و دستمزد با Microsoft Access.",
+          "طراحی فرایندهای کنترل مدارک مهندسی و مشارکت در پیاده‌سازی سامانه مبتنی بر Access.",
+          "به‌روزرسانی و بهبود داشبورد سازمانی Power BI."
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent-wordpress-development",
+    "visible": true,
+    "organization": "Independent Projects",
+    "technologies": [
+      "WordPress",
+      "LifterLMS",
+      "BuddyBoss",
+      "RTL",
+      "Jalali Calendar"
+    ],
+    "priority": 20,
+    "locales": {
+      "en": {
+        "title": "WordPress Developer & Localization Specialist",
+        "summary": "Seven years across educational, corporate, and e-commerce websites, plugin adaptations, and Persian localization.",
+        "description": "Independent WordPress development and customization projects.",
+        "bullets": [
+          "Developed educational, corporate, and e-commerce websites.",
+          "Developed Jalali calendar extensions for LifterLMS and BuddyBoss.",
+          "Localized themes and plugins with Persian translations, RTL layouts, and Jalali dates.",
+          "Improved site performance through database cleanup, caching, and minification."
+        ]
+      },
+      "fa": {
+        "title": "توسعه‌دهنده وردپرس و متخصص بومی‌سازی",
+        "summary": "هفت سال تجربه در سایت‌های آموزشی، شرکتی و فروشگاهی، سفارشی‌سازی افزونه و بومی‌سازی فارسی.",
+        "description": "پروژه‌های مستقل توسعه و سفارشی‌سازی وردپرس.",
+        "bullets": [
+          "توسعه وب‌سایت‌های آموزشی، شرکتی و فروشگاهی.",
+          "توسعه افزونه‌های تقویم شمسی برای LifterLMS و BuddyBoss.",
+          "بومی‌سازی قالب‌ها و افزونه‌ها با ترجمه فارسی، رابط راست‌به‌چپ و تاریخ شمسی.",
+          "بهبود عملکرد سایت با پاک‌سازی پایگاه داده، کش و فشرده‌سازی منابع."
+        ]
+      }
+    }
+  },
+  {
+    "id": "human-resources-internship",
+    "visible": false,
+    "organization": "",
+    "technologies": [],
+    "priority": 10,
+    "locales": {
+      "en": {
+        "title": "Human Resources Intern",
+        "summary": "Early practical experience in a human resources specialist role.",
+        "description": "Completed an internship in human resources; employer and dates are not supplied.",
+        "bullets": [
+          "Completed an internship in a human resources specialist role."
+        ]
+      },
+      "fa": {
+        "title": "کارآموز منابع انسانی",
+        "summary": "تجربه عملی اولیه در جایگاه مرتبط با منابع انسانی.",
+        "description": "دوره کارآموزی منابع انسانی؛ نام سازمان و تاریخ دقیق ارائه نشده است.",
+        "bullets": [
+          "گذراندن دوره کارآموزی در نقش کارشناس منابع انسانی."
+        ]
+      }
+    }
+  }
+]
